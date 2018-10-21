@@ -1,0 +1,17 @@
+ Vao trang https://angular.io/guide/quickstart de xem huong dan cai dat.
+
+1. Cai nmp
+2. tao 1 folder va chay npm install -g @angular/cli de create angular project
+3. run ng new my-app de tao 1 project angular moi. Luu y, cai ten project rat quan trong. hoi truoc tao bang cai ten
+angular_sample thi bi loi path.name khi gio gi do, nhung ma khi doi ten thanh angularsample thi ko bi nua. Cai nay co
+thoi gian thi tim hieu sau.
+
+4. cd my-app
+va run  ng serve --open de start server. (hoac ng serve --o)
+
+dia chi mac dinh : http://localhost:4200/
+
+
+5. Huong dan run bang Intellj idea
+
+Trong intellj idea no co cai terminal. de cho tien thi ta can set up lai de co the chay command line truc tiep tu day.
